@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lab07_inventory"
+version = "0.1.0"
+description = "Лабораторна робота №7: functools та operator (Варіант 11 - Складські запаси)"
+requires-python = ">=3.8"
+dependencies = [
+    "pytest>=7.0.0"
+]
+
+[tool.black]
+line-length = 88
+target-version = ['py38']
+
+[tool.ruff]
+line-length = 88

@@ -1,0 +1,7 @@
+[
+  {"sku": "A-01", "name": "  laptop pro   ", "category": " electronics ", "qty": 5, "price": 1200.0},
+  {"sku": "A-02", "name": "wireless mouse", "category": "electronics", "qty": 0, "price": 25.5},
+  {"sku": "B-01", "name": "standing desk", "category": "furniture", "qty": 10, "price": 300.0},
+  {"sku": "C-01", "name": "mechanical keyboard", "category": "accessories", "qty": 15, "price": 95.0},
+  {"sku": "A-03", "name": "4k monitor", "category": "electronics", "qty": 4, "price": 450.0}
+]
